@@ -1,0 +1,17 @@
+# Compiled binaries
+tema1
+*.o
+*.out
+*.exe
+# Archives
+*.zip
+*.tar.gz
+
+# Logs and input/output
+*.txt
+tema1.in
+tema1.out
+
+# OS/System artifacts
+*:Zone.Identifier
+.DS_Store
